@@ -846,7 +846,7 @@
 		}
 
 		.wrapper.style2 {
-			background: #192024;
+			background: #285d8b;
 			color: #c5c7c8;
 		}
 
@@ -855,7 +855,8 @@
 			}
 
 			.wrapper.style2 header p {
-				color: #a3a5a7;
+				color: #b0b2b3;
+				font-size: 1.15em;
 			}
 
 			.wrapper.style2 .button.alt {
